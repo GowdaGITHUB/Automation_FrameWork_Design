@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[BangaloreSP Road]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111" started-at="2018-11-18T14:37:26Z" finished-at="2018-11-18T14:37:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111" started-at="2018-11-18T14:37:26Z" finished-at="2018-11-18T14:37:26Z">
+      <class name="SeleniuGrid.TestNGParameter">
+        <test-method status="PASS" signature="testA(java.lang.String, java.lang.String)[pri:0, instance:SeleniuGrid.TestNGParameter@6a024a67]" name="testA" duration-ms="33" started-at="2018-11-18T20:07:26Z" finished-at="2018-11-18T20:07:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SP Road]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[BangaloreSP Road]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- SeleniuGrid.TestNGParameter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
